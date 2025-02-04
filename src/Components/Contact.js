@@ -6,7 +6,7 @@ const Contact = () => {
       <main>
         <h1>Contact Us</h1>
 
-        <form action="https://formsubmit.co/f9929c2920c340b1b4aa0708aa9d6aeb" method="POST">
+        <form action="https://formsubmit.co/el/rewunu" method="POST">
           <div>
             <label>Name</label>
             <input name="_honey" type="text" required placeholder="Abc" />
